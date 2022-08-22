@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kiaryy
-- 👀 I’m interested in Code and games, i love anything that has to do with code, albeit i suck at code.
+- 👀 I’m interested in Code and games, i love anything that has to do with code, although i suck at it.
 - 🌱 I’m currently learning JavaScript and Processing 5 :D
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me martin360.moron@gmail.com :)
