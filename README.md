@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Kiaryy
-- 👀 I’m interested in Code and games, i love anything that has to do with code, although i suck at it.
-- 🌱 I’m currently learning java and Python
-- 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me martinmoron.mdz@gmail.com :)
+Learning Rust and C++, interested in systems programming and Linux as an ecosystem.
+Reach out to me on Discord (kiaryyyy) or Email me martinmoron.mdz@gmail.com
+
 
 <!---
 Kiaryy/Kiaryy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
