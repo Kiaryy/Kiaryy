@@ -1,6 +1,6 @@
 # Welcome to my Profile
 ## Im currently 
-Learning Rust and C++, interested in systems programming and Linux as an ecosystem.  
+Learning C++, interested in systems programming and Linux as an ecosystem.  
 ## Reach out!
 - Discord: kiaryyyy
 - Email: martinmoron.mdz@gmail.com
