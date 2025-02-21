@@ -1,11 +1,16 @@
-# Welcome to my Profile
-## Im currently 
-Learning C++, interested in systems programming and Linux as an ecosystem.  
-## Reach out!
-- Discord: kiaryyyy
-- Email: martinmoron.mdz@gmail.com
+<h1 align="center">Welcome to my Profile</h1>
+<h2 align="center">Currently learning C++, interested in systems programming and Linux as an ecosystem.  </h2>
 
-![alt text](https://github.com/Kiaryy/Kiaryy/blob/main/lain.gif?raw=true)
+<h2 align="center">Reach out!</h2>
+<p align="center">
+- Discord: kiaryyyy <br>
+- Email: martinmoron.mdz@gmail.com <br>
+</p>
+
+<p align="center">
+    <img src="lain.gif" alt="Banner">
+  </a>
+</p>
 
 <!---
 Kiaryy/Kiaryy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
