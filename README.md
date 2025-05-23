@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="konata.gif"> Welcome to my Profile <img src="konata.gif"></h1>
+<h1 align="center">Welcome to my Profile</h1>
 <h2 align="center">Currently learning C++, interested in systems programming and Linux as an ecosystem.  </h2>
 
 <h2 align="center">Reach out!</h2>
