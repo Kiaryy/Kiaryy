@@ -1,9 +1,8 @@
-<!-- Lain GIF -->
-<p align="center">
-  <img src="lain.gif" alt="Lain" width="600"/>
-</p>
-
 <h1 align="center">Hi there, I'm Kiaryy 👋</h1>
+<!-- Lain GIF -->
+<!-- <p align="center">
+  <img src="lain.gif" alt="Lain" width="600"/>
+</p> -->
 
 ---
 
